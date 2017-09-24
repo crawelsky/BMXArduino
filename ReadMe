@@ -1,1 +1,7 @@
-Programme arduino utilisant un shield ethernet et manipulant des leds
+/**
+Auteur : Djadja Jean Delest D. DJADJA
+Crée le : Jeudi 6 Juillet 2016
+**/
+
+Programme arduino utilisant un shield ethernet et manipulant des leds.
+Le programme attends d'etre connecté à l'ordinateur ensuite affiche tout les textes reçus en fonction des couleurs.
